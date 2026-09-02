@@ -1,6 +1,6 @@
 import gymnasium as gym
 
-def random_agent(env, max_steps=500):
+def random_agent(env, max_steps = 500):
     observation, info = env.reset()
 
     total_reward = 0.0
