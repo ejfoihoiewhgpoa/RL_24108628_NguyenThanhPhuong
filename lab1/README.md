@@ -11,3 +11,6 @@ Matplotlib version: 3.11.1
 ## Cách cài đặt
 ## Cách chạy từng bài
 ## Cách chạy chương trình tổng hợp
+## Mô tả kết quả
+## Khó khăn gặp phải
+## Kết luận
