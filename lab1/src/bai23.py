@@ -2,7 +2,7 @@ import gymnasium as gym
 
 env = gym.make(
     "FrozenLake-v1",
-    is_slippery=False
+    is_slippery = False
 )
 
 print(env.observation_space)
